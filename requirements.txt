@@ -1,0 +1,4 @@
+matplotlib==3.5.0
+git add requirements.txt
+git commit -m "Add requirements.txt with matplotlib dependency"
+git push origin main
